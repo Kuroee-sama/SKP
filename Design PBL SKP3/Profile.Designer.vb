@@ -102,7 +102,7 @@ Partial Class Profile
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(469, 184)
         Controls.Add(TextBox3)
         Controls.Add(TextBox2)
         Controls.Add(TextBox1)

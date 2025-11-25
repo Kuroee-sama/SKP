@@ -19,5 +19,8 @@
     <Compile Update="Profile.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Registrasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

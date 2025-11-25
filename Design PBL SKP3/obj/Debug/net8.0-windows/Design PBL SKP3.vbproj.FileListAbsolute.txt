@@ -53,9 +53,7 @@ D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\bin\D
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design PBL SKP3.vbproj.AssemblyReference.cache
-D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.Dashboard.resources
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.FormLogin.resources
-D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.HomeKPS.resources
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.ModulPegawai.resources
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.ModulSKP.resources
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.Profile.resources
@@ -70,3 +68,6 @@ D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\D
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design PBL SKP3.pdb
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design PBL SKP3.genruntimeconfig.cache
 D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\ref\Design PBL SKP3.dll
+D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.DashboardKPS.resources
+D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.Home.resources
+D:\Data\Tugas Kuliah\pnj\SMES 3\PBL SKP\PV\Design PBL SKP3\Design PBL SKP3\obj\Debug\net8.0-windows\Design_PBL_SKP3.Registrasi.resources
